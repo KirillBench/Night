@@ -1,0 +1,3 @@
+public Class;
+public static void
+ System.out.prinln("Hello")
